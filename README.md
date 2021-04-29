@@ -1,8 +1,7 @@
 ## Hand-tracing-
-# https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/d4d6a14c7151aa4ebe23eb2a7cc8f94db05384c3/project3.py
+
 import cv2
 
-#############################################
 frameWidth = 640
 frameHeight = 480
 nPlateCascade = cv2.CascadeClassifier("Resources/haarcascade_russian_plate_number.xml")
